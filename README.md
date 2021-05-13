@@ -1,7 +1,3 @@
-# NodeJs Bagy Server
-![Bagy Logo](https://sites.bagy.com.br/wp-content/uploads/2021/03/cropped-Design-sem-nome-3-min-1-192x192.png)
-## Arquitetura
-
 
 ### Mutation - Create Customer
 ```
@@ -100,6 +96,10 @@ mutation {
   }
 }
 ```
+
+<img src="/coverage/createOrder.png" alt="CreateOrder" />
+
+<img src="/coverage/ethereal.png" alt="ethereal" />
 
 ### Querys
 
