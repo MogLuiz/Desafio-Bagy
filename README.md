@@ -117,6 +117,8 @@ mutation {
   }
 }
 ```
+<img src="/coverage/allCostumers.png" alt="costumers" />
+
 #### Get all Produtos
 ```
 {
@@ -125,10 +127,5 @@ mutation {
   }
 }
 ```
-## Testes Unitários
+<img src="/coverage/allproducts.png" alt="products" />
 
-Foquei os testes unitários no service de Order, pois concentra o core da aplicação, com a responsabilidade de registrar uma compra para um usuário e enivar um email.
-
-Para executar os testes
-
-`yarn test`
