@@ -27,7 +27,9 @@ mutation createCustomer {
 ```
 <img src="/coverage/createCustom.png" alt="CreateCustom" />
 ### Mutation - Create Product
+
 ```
+
 mutation createProduct {
   createProduct(
     product: {
@@ -41,6 +43,7 @@ mutation createProduct {
   ) { name, qttStock, price }
 }
 ```
+<img src="/coverage/createProduct.png" alt="CreateProduct" />
 
 ### Mutation - Create Order
 *testEmailUrl*: é o link para o email de teste no https://ethereal.email/
